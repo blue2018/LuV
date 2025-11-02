@@ -1,5 +1,5 @@
 const CUSTOMER_SITES = {
-    360ziyuan: {
+    "360ziyuan": {
         "name": "360资源",
         "api": "https://360zy.com/api.php/provide/vod",
         "detail": "https://360zy.com"
