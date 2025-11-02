@@ -38,11 +38,6 @@ const CUSTOMER_SITES = {
         "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
         "detail": "http://caiji.dyttzyapi.com"
     },
-    "api_30": {
-        "name": "AV-百万资源",
-        "api": "https://api.bwzyz.com/api.php/provide/vod",
-        "detail": "https://api.bwzyz.com"
-    },
     "api_31": {
         "name": "TV-百度云资源",
         "api": "https://api.apibdzy.com/api.php/provide/vod",
@@ -89,10 +84,6 @@ const CUSTOMER_SITES = {
     "iqiyi": {
         "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
         "name": "iqiyi资源"
-    },
-    "yingshigongchang": {
-        "api": "https://cj.lziapi.com/api.php/provide/vod/",
-        "name": "影视工厂"
     },
     "fantuanyingshi": {
         "api": "https://www.fantuan.tv/api.php/provide/vod/",
