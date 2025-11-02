@@ -1,65 +1,61 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
+    360ziyuan: {
+        "name": "360资源",
+        "api": "https://360zy.com/api.php/provide/vod",
+        "detail": "https://360zy.com"
     },
     "api_13": {
-        "name": "TV-卧龙资源",
+        "name": "卧龙资源",
         "api": "https://wolongzyw.com/api.php/provide/vod",
         "detail": "https://wolongzyw.com"
     },
     "api_14": {
-        "name": "TV-天涯资源",
+        "name": "天涯资源",
         "api": "https://tyyszy.com/api.php/provide/vod",
         "detail": "https://tyyszy.com"
     },
     "api_15": {
-        "name": "TV-如意资源",
+        "name": "如意资源",
         "api": "https://cj.rycjapi.com/api.php/provide/vod",
         "detail": ""
     },
     "api_16": {
-        "name": "TV-小猫咪资源",
+        "name": "小猫咪资源",
         "api": "https://zy.xmm.hk/api.php/provide/vod",
         "detail": "https://zy.xmm.hk"
     },
-    "api_20": {
-        "name": "TV-无尽资源",
-        "api": "https://api.wujinapi.net/api.php/provide/vod",
+    "api_18": {
+        "name": "无尽资源",
+        "api": "https://api.wujinapi.com/api.php/provide/vod",
         "detail": ""
     },
     "api_23": {
-        "name": "TV-暴风资源",
+        "name": "暴风资源",
         "api": "https://bfzyapi.com/api.php/provide/vod",
         "detail": ""
     },
     "api_29": {
-        "name": "TV-电影天堂资源",
+        "name": "电影天堂资源",
         "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
         "detail": "http://caiji.dyttzyapi.com"
     },
-    "api_31": {
-        "name": "TV-百度云资源",
-        "api": "https://api.apibdzy.com/api.php/provide/vod",
-        "detail": "https://api.apibdzy.com"
-    },
     "api_45": {
-        "name": "TV-非凡资源",
+        "name": "非凡资源",
         "api": "https://cj.ffzyapi.com/api.php/provide/vod",
         "detail": "https://cj.ffzyapi.com"
     },
     "api_48": {
-        "name": "TV-魔都动漫",
+        "name": "魔都动漫",
         "api": "https://caiji.moduapi.cc/api.php/provide/vod",
         "detail": "https://caiji.moduapi.cc"
     },
     "api_49": {
-        "name": "TV-魔都资源",
+        "name": "魔都资源",
         "api": "https://www.mdzyapi.com/api.php/provide/vod",
         "detail": "https://www.mdzyapi.com"
     },
     "api_50": {
-        "name": "TV-黑木耳",
+        "name": "黑木耳",
         "api": "https://json.heimuer.xyz/api.php/provide/vod",
         "detail": "https://json.heimuer.xyz"
     },
