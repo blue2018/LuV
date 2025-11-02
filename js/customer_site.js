@@ -18,46 +18,46 @@ const CUSTOMER_SITES = {
             "api": "https://api.ukuapi.com/api.php/provide/vod",
             "detail": "https://api.ukuapi.com"
     },
-        "api_6": {
+     "api_6": {
             "name": "TV-U酷资源",
             "api": "https://api.ukuapi88.com/api.php/provide/vod",
             "detail": "https://api.ukuapi88.com"
-        },
-        "api_7": {
+    },
+     "api_7": {
             "name": "TV-ikun资源",
             "api": "https://ikunzyapi.com/api.php/provide/vod",
             "detail": "https://ikunzyapi.com"
-        },
+     },
         "api_8": {
             "name": "TV-wujinapi无尽",
             "api": "https://api.wujinapi.cc/api.php/provide/vod",
             "detail": ""
-        },
-        "api_9": {
+     },
+     "api_9": {
             "name": "TV-丫丫点播",
             "api": "https://cj.yayazy.net/api.php/provide/vod",
             "detail": "https://cj.yayazy.net"
-        },
-        "api_10": {
+     },
+     "api_10": {
             "name": "TV-光速资源",
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
             "detail": "https://api.guangsuapi.com"
-        },
-        "api_11": {
+     },
+      "api_11": {
             "name": "TV-卧龙点播",
             "api": "https://collect.wolongzyw.com/api.php/provide/vod",
             "detail": "https://collect.wolongzyw.com"
-        },
-        "api_12": {
+      },
+      "api_12": {
             "name": "TV-卧龙资源",
             "api": "https://collect.wolongzy.cc/api.php/provide/vod",
             "detail": ""
-        },
-        "api_13": {
+      },
+      "api_13": {
             "name": "TV-卧龙资源",
             "api": "https://wolongzyw.com/api.php/provide/vod",
             "detail": "https://wolongzyw.com"
-        },
+      },
         "api_14": {
             "name": "TV-天涯资源",
             "api": "https://tyyszy.com/api.php/provide/vod",
@@ -458,10 +458,6 @@ const CUSTOMER_SITES = {
         "xibaocaiji": {
             "api": "https://www.xxibaozyw.com/api.php/provide/vod",
             "name": "细胞采集黄色"
-        },
-        "qiqiqiqi": {
-            "api": "https://www.qiqidys.com/api.php/provide/vod/",
-            "name": "七七影视"
         },
         "yingshigongchang": {
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
