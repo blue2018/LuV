@@ -63,11 +63,6 @@ const CUSTOMER_SITES = {
         "api": "https://json.heimuer.xyz/api.php/provide/vod",
         "detail": "https://json.heimuer.xyz"
     },
-    "api_52": {
-        "name": "AV-91麻豆",
-        "api": "https://91md.me/api.php/provide/vod",
-        "detail": "https://91md.me"
-    },
     "jisu": {
         "api": "https://jszyapi.com/api.php/provide/vod",
         "name": "极速资源",
